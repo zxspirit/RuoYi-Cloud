@@ -1,4 +1,7 @@
+create database `ry-config` character set utf8mb4 collate utf8mb4_general_ci;
+use `ry-config`;
 DROP DATABASE IF EXISTS `ry-config`;
+
 
 CREATE DATABASE  `ry-config` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 

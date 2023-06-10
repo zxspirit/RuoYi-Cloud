@@ -1,3 +1,5 @@
+create database if not exists `ry-cloud` default charset utf8mb4 collate utf8mb4_general_ci;
+use `ry-cloud`;
 SET NAMES utf8mb4;
 
 -- ----------------------------
